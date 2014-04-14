@@ -1,0 +1,2 @@
+class UnexpectedTokenException < StandardError
+end

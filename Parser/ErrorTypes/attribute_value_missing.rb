@@ -1,0 +1,3 @@
+class AttributeValueMissing < ParserError
+
+end

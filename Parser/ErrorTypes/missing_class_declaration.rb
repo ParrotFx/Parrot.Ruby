@@ -1,0 +1,2 @@
+class MissingClassDeclaration < ParserError
+end

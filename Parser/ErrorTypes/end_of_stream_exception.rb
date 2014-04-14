@@ -1,0 +1,3 @@
+class EndOfStreamException < Exception
+
+end

@@ -1,0 +1,3 @@
+class MissingIdDeclaration < ParserError
+
+end
